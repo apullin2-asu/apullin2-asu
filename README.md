@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning ... Github
 - 🔭 I’m currently working on ... my CSE 485 Project
 
+## Collapsible Chart
 <details open>
  
 <summary> My food rankings. </summary>
@@ -19,6 +20,7 @@
 
 </details>
 
+## C++ code segment
 ```c++
 #include <iostream>
 #include <string>
@@ -33,11 +35,13 @@ example_function(int param) {
 example_function(1);
 ```
 ---
+## Quote
 > It is better to keep your mouth closed and let people think you are a fool than to open it and remove all doubt.
 
 — Mark Twain
 
 --- 
+## Light/Dark Picture
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://images.unsplash.com/photo-1537498425277-c283d32ef9db">
