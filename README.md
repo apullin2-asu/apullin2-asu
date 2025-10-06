@@ -24,3 +24,7 @@
  <source media="(prefers-color-scheme: light)" srcset="https://images.unsplash.com/photo-1498050108023-c5249f4df085">
  <img alt="An image of a computer that changes based on preferred color scheme." src="https://images.unsplash.com/photo-1453928582365-b6ad33cbcf64">
 </picture>
+
+---
+> It is better to keep your mouth closed and let people think you are a fool than to open it and remove all doubt.
+- Mark Twain
