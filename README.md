@@ -34,13 +34,16 @@ example_function(int param) {
 
 example_function(1);
 ```
+
+## Break 
+
 ---
+
 ## Quote
 > It is better to keep your mouth closed and let people think you are a fool than to open it and remove all doubt.
 
 — Mark Twain
 
---- 
 ## Light/Dark Picture
 
 <picture>
